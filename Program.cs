@@ -278,7 +278,7 @@ namespace Prog120_S24_L9_Methods
             {
                 Console.WriteLine("Invalid option. Returning to main menu.");
             }
-        } // PerformAlgebra()
+        } // PerformAlgebra().
 
         // Work with names
         public static void WorkWithNames()
@@ -301,5 +301,5 @@ namespace Prog120_S24_L9_Methods
         } // WorkWithNames
 
     } // class
-// ...
+
 } // namespace
